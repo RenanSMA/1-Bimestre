@@ -1,0 +1,6 @@
+Para executar programas em subpastas utilize "nome da pasta/nome da subpasta desejada"
+
+  Relacional (Relação entre Variáveis)
+  < >    <= >=     "igual a: =="      "diferença: !="
+
+
